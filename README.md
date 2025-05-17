@@ -1,4 +1,4 @@
-# Model description for Flux-Icon-Kit-LoRA
+# **Flux-Icon-Kit-LoRA**
 ![icon pack.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/G_QXbbtYT1YFflykerj-m.png)
 ## Image Gallery
 
